@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="The Memory House" type="Node2D"]
+
+[node name="lblSplash" type="Label" parent="."]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "The Memory House Splash Screen"
+__meta__ = {
+"_edit_use_anchors_": false
+}
