@@ -2,7 +2,8 @@ extends Node2D
 
 
 func _ready():
-	pass 
+	$AnimationPlayer.play("intro")
+
 
 func _on_StartButton_pressed():
 	get_tree().change_scene("res://main/Main.tscn")

@@ -14,6 +14,11 @@ config/name="The Memory House"
 run/main_scene="res://splash/Splash.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=800
+window/size/height=450
+
 [editor_plugins]
 
 enabled=PoolStringArray(  )
