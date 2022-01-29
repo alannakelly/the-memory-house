@@ -111,10 +111,10 @@ tracks/0/loop_wrap = true
 tracks/0/imported = false
 tracks/0/enabled = true
 tracks/0/keys = {
-"times": PoolRealArray( 0, 1.5 ),
+"times": PoolRealArray( 0, 0.8 ),
 "transitions": PoolRealArray( 0.4, 1 ),
 "update": 0,
-"values": [ Vector2( 230, 0 ), Vector2( 0, 0 ) ]
+"values": [ Vector2( 44, 0 ), Vector2( 0, 0 ) ]
 }
 tracks/1/type = "value"
 tracks/1/path = NodePath("../CloudFront:position")
@@ -123,17 +123,17 @@ tracks/1/loop_wrap = true
 tracks/1/imported = false
 tracks/1/enabled = true
 tracks/1/keys = {
-"times": PoolRealArray( 0.3, 2.3 ),
+"times": PoolRealArray( 0, 1.2 ),
 "transitions": PoolRealArray( 0.3, 1 ),
 "update": 0,
-"values": [ Vector2( 280, 0 ), Vector2( 0, 0 ) ]
+"values": [ Vector2( 140, 0 ), Vector2( 0, 0 ) ]
 }
 tracks/2/type = "value"
 tracks/2/path = NodePath(".:modulate")
 tracks/2/interp = 1
 tracks/2/loop_wrap = true
 tracks/2/imported = false
-tracks/2/enabled = true
+tracks/2/enabled = false
 tracks/2/keys = {
 "times": PoolRealArray( 0, 1.5 ),
 "transitions": PoolRealArray( 0.8, 1 ),
@@ -147,10 +147,10 @@ tracks/3/loop_wrap = true
 tracks/3/imported = false
 tracks/3/enabled = true
 tracks/3/keys = {
-"times": PoolRealArray( 0.3, 2.7 ),
+"times": PoolRealArray( 0, 1.7 ),
 "transitions": PoolRealArray( 0.7, 1 ),
 "update": 0,
-"values": [ Color( 1, 1, 1, 0 ), Color( 1, 1, 1, 1 ) ]
+"values": [ Color( 1, 1, 1, 0.380392 ), Color( 1, 1, 1, 1 ) ]
 }
 tracks/4/type = "value"
 tracks/4/path = NodePath("../Trees:position")
@@ -306,8 +306,6 @@ anims/RESET = SubResource( 1 )
 anims/intro = SubResource( 2 )
 
 [node name="Sky" type="Sprite" parent="."]
-modulate = Color( 1, 1, 1, 0 )
-position = Vector2( 230, 0 )
 texture = ExtResource( 2 )
 centered = false
 
@@ -316,8 +314,6 @@ texture = ExtResource( 7 )
 centered = false
 
 [node name="Trees" type="Node2D" parent="."]
-position = Vector2( -20, 0 )
-scale = Vector2( 1.1, 1.1 )
 
 [node name="TreeShadows" type="Sprite" parent="Trees"]
 texture = ExtResource( 13 )
@@ -329,25 +325,19 @@ centered = false
 
 [node name="Background-1" type="Sprite" parent="."]
 position = Vector2( -40, 208 )
-scale = Vector2( 1.2, 1.2 )
+scale = Vector2( 1.06, 1.06 )
 texture = ExtResource( 14 )
 centered = false
 
 [node name="CloudNext-1" type="Sprite" parent="."]
-modulate = Color( 1, 1, 1, 0 )
-position = Vector2( 230, 0 )
 texture = ExtResource( 6 )
 centered = false
 
 [node name="CloudFront" type="Sprite" parent="."]
-modulate = Color( 1, 1, 1, 0 )
-position = Vector2( 280, 0 )
 texture = ExtResource( 10 )
 centered = false
 
 [node name="House" type="Node2D" parent="."]
-position = Vector2( 18, 0 )
-scale = Vector2( 1.05, 1.05 )
 
 [node name="Path" type="Sprite" parent="House"]
 texture = ExtResource( 12 )
@@ -362,15 +352,13 @@ texture = ExtResource( 4 )
 centered = false
 
 [node name="Grass-and-Stump" type="Sprite" parent="."]
-position = Vector2( -40, 10 )
-scale = Vector2( 1.15, 1.15 )
 texture = ExtResource( 9 )
 centered = false
 
 [node name="Title" type="Sprite" parent="."]
-modulate = Color( 1, 1, 1, 0 )
-position = Vector2( -20, -30 )
-scale = Vector2( 1.15, 1.15 )
+modulate = Color( 1, 1, 1, 0.7347 )
+position = Vector2( -2.78272, -4.17408 )
+scale = Vector2( 1.01056, 1.01056 )
 texture = ExtResource( 3 )
 centered = false
 
