@@ -1,0 +1,13 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="tmpLabel" type="Label" parent="."]
+margin_left = 458.0
+margin_top = 269.0
+margin_right = 606.0
+margin_bottom = 283.0
+text = "Core Game Loop Scene"
+__meta__ = {
+"_edit_use_anchors_": false
+}
