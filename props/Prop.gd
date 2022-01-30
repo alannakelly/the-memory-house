@@ -10,11 +10,12 @@ enum Type {
 	CAKE_SLICER,
 	DINING_CLOTH,
 	PLAYING_CARDS,
-	INDOOR_PLANTS
+	INDOOR_PLANTS,
+	NEW_PROP
 }
 
 var dusted = false;
-var color = Color(0.0,0.0,1.0)
+var color := Color(0.0,0.0,1.0)
 export(Type) var type = Type.NONE
 
 onready var dialog = $"/root/Node2D/Dialog"
@@ -23,6 +24,7 @@ var scene1_complete := false
 var bodies_colliding := []
 
 func _ready():
+	self.modulate = color
 	dialog.connect("dialogic_signal", self, "_on_dialog_signal")
 
 func _on_dialog_signal(arg):
