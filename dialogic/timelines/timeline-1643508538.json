@@ -39,6 +39,14 @@
 			}
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/1.ogg",
+			"volume": 0
+		},
+		{
 			"character": "character-1643508520.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -49,6 +57,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": " (verbal grunt of frustration)\nMust you always do this at the worst occastions? I told you. I collect the souls, you greet them.\nThey have been our roles since the dawn of human existance. \nLiterally.\nWe act as a balanced force."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/2.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1643508520.json",
@@ -63,6 +79,14 @@
 			"text": " (He pauses, sarcastically)\nAh yes. But they DID get through didn't they? \nYou got to introduce them to their cycle on Earth and I met them at the end of it. \nSo why is this one so difficult for you?"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/3.ogg",
+			"volume": 0
+		},
+		{
 			"character": "character-1643508520.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -73,6 +97,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Short?! Alora look at this man. He is elderly, his child soul vanished long ago, his adult soul is lost and here he is.\nA leftover.\nHe is an elder  soul, ready to be collected. That's all. Let him go to the Afterlife with me."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/4.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1643508520.json",
@@ -87,6 +119,14 @@
 			"text": "Something tells me that was his own doing. \nGrave Mortal mistake I suppose. Won't matter once he's passed on."
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/5.ogg",
+			"volume": 0
+		},
+		{
 			"character": "character-1643508520.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -97,6 +137,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": " (he scoffs)\nOh, my sincerest apologies Alora, I forgot YOU were the sole deity reponsible for the human cycle of exhistance.\nHow do you possibly manage it all?"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/6.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1643508520.json",
@@ -111,6 +159,14 @@
 			"text": "Charmed."
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/7.ogg",
+			"volume": 0
+		},
+		{
 			"character": "character-1643508520.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -121,6 +177,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I suppose his does have missing pieces for some reason."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/8.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1643508520.json",
@@ -135,6 +199,14 @@
 			"text": "I do not need a history lesson. I was there."
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/9.ogg",
+			"volume": 0
+		},
+		{
 			"character": "character-1643508520.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -145,6 +217,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Hmm... that is odd, I'll admit.\nCrafty- for an old man."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/10.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1643508520.json",
@@ -163,6 +243,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Owlnu. Why don't you consider this your first task to the start of your eternity."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/11.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1643508520.json",
@@ -189,16 +277,24 @@
 			"text": "Go around this man's home now Owlnu, see if you can find anything that will shed some... light on the problem at hand."
 		},
 		{
-			"character": "character-1643508520.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "-Hey!"
-		},
-		{
 			"character": "character-1643508499.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": " (chuckles)"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/12.ogg",
+			"volume": 0
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-Hey!"
 		},
 		{
 			"character": "character-1643508520.json",
@@ -251,6 +347,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Oh goodie. What a fun way to tell them they'll be cleaning a dying man's home for free."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/scene-1-alora-lines/15.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1643508520.json",

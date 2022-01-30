@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Monologue line 3.ogg-b20b8306ac84d8a0e625d92dd5d35643.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/pickett-lines/Monologue line 3.ogg"
+dest_files=[ "res://.import/Monologue line 3.ogg-b20b8306ac84d8a0e625d92dd5d35643.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

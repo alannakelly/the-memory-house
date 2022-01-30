@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rain 1.mp3-0ec4a2d7b71c9fd2a32495950062108e.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sound-effects/rain 1.mp3"
+dest_files=[ "res://.import/rain 1.mp3-0ec4a2d7b71c9fd2a32495950062108e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

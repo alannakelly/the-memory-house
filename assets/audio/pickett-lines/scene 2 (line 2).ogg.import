@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/scene 2 (line 2).ogg-65784456cf1b5a06b3cb5deee7e4e5ad.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/pickett-lines/scene 2 (line 2).ogg"
+dest_files=[ "res://.import/scene 2 (line 2).ogg-65784456cf1b5a06b3cb5deee7e4e5ad.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

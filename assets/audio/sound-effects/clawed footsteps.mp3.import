@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/clawed footsteps.mp3-29792b9572287dc70a445691cf1012d2.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sound-effects/clawed footsteps.mp3"
+dest_files=[ "res://.import/clawed footsteps.mp3-29792b9572287dc70a445691cf1012d2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

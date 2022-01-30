@@ -3,6 +3,7 @@ extends Node2D
 
 func _ready():
 	$AnimationPlayer.play("intro")
+	$AudioStreamPlayer2D.play()
 
 
 func _on_StartButton_pressed():

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/9.ogg-39e16dfb3db8ef708b7afe48be191a2b.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/scene-1-alora-lines/9.ogg"
+dest_files=[ "res://.import/9.ogg-39e16dfb3db8ef708b7afe48be191a2b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

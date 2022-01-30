@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/We wouldnt have needed Owlnu.ogg-1bb8156237ae4cd97afcba0a611220ed.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/pickett-lines/We wouldnt have needed Owlnu.ogg"
+dest_files=[ "res://.import/We wouldnt have needed Owlnu.ogg-1bb8156237ae4cd97afcba0a611220ed.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

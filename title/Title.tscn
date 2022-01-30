@@ -1,9 +1,10 @@
-[gd_scene load_steps=16 format=2]
+[gd_scene load_steps=17 format=2]
 
 [ext_resource path="res://title/Title.gd" type="Script" id=1]
 [ext_resource path="res://title/Sky.png" type="Texture" id=2]
 [ext_resource path="res://title/Title.png" type="Texture" id=3]
 [ext_resource path="res://title/House.png" type="Texture" id=4]
+[ext_resource path="res://assets/music/BigRicePiano - Stories in the Rain (EP) - 04 April Rain.mp3" type="AudioStream" id=5]
 [ext_resource path="res://title/CloudNext-1.png" type="Texture" id=6]
 [ext_resource path="res://title/Background.png" type="Texture" id=7]
 [ext_resource path="res://title/HouseShadow.png" type="Texture" id=8]
@@ -395,6 +396,9 @@ margin_bottom = 140.0
 size_flags_horizontal = 3
 size_flags_vertical = 3
 text = "Quit"
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
 
 [connection signal="pressed" from="VBoxContainer/StartButton" to="." method="_on_StartButton_pressed"]
 [connection signal="pressed" from="VBoxContainer/HowToPlayButton" to="." method="_on_HowToPlayButton_pressed"]

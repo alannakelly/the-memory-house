@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/duster swish 1.mp3-1f6860c5e4ebcef3bd8b682afbe66b1d.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sound-effects/duster swish 1.mp3"
+dest_files=[ "res://.import/duster swish 1.mp3-1f6860c5e4ebcef3bd8b682afbe66b1d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
