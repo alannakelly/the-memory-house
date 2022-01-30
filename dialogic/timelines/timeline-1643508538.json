@@ -1,0 +1,133 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1643508961.cfg"
+		},
+		{
+			"action": "join",
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alora, I'm beginning to grow tiresome of this squabaling. It's not very devine-like."
+		},
+		{
+			"action": "join",
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can be tired of it all you wish, it does not change the fact his soul remains here till we agree, Pickett."
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " (verbal grunt of frustration)\nMust you always do this at the worst occastions? I told you. I collect the souls, you greet them.\nThey have been our roles since the dawn of human existance. \nLiterally.\nWe act as a balanced force."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We do, until we disagree. It's not often so don't complain. \nDo you not recall your reluctance to let some of my souls pass through?"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " (He pauses, sarcastically)\nAh yes. But they DID get through didn't they? \nYou got to introduce them to their cycle on Earth and I met them at the end of it. \nSo why is this one so difficult for you?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "<skip skip skip for dev>"
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So would you please, if it's no bother of course, go around this gentlemans home and see what you can find that may help us understand his story?"
+		},
+		{
+			"emit_signal": "scene_1_enable_movement",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Owlnu can walk around using\nUp, Down, Left, Right buttons"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That feather duster on your back should be able to help! \nVery intuitive of you! \nThis place is old, much like him, and has gotten quite dusty, so it may help you uncover some things!"
+		},
+		{
+			"emit_signal": "scene_1_show_ctrl_swing",
+			"event_id": "dialogic_040"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh goodie. What a fun way to tell them they'll be cleaning a dying man's home for free."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(another grunt)\nWould you stop! \nCurrency doesn't mean anything to us anyway!"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well... That wasn't a no."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1643508538.json",
+		"name": "scene1_intro"
+	}
+}
