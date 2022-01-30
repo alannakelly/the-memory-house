@@ -1,0 +1,33 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1643508961.cfg"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "used for skipping scene1 during dev"
+		},
+		{
+			"emit_signal": "scene_1_enable_movement",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "scene_1_enable_swing",
+			"event_id": "dialogic_040"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "emitted signals scene_1_enable_movement and scene_1_enable_swing"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1643546299.json",
+		"name": "dev_timeline"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1643508961.cfg"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Anything of use yet Owlnu?\n     (he pauses)\nOh. Books. You've found books. How... helpful. \nI will admit it's rather quaint for the humans to pretend to gain higher knowledge."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't listen to him, I think it's a wonderful thing to see humans explore so many possibilities. \nI've never been read stories, have you?"
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's a warm thing they've picked up, to comfort each other. \nHis favorite to read were childrens books! \nI remember now! Wait! That's right! He had a daughter. \nI wonder where she is..."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1643542830.json",
+		"name": "scene3_bookshelf"
+	}
+}
