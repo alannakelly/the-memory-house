@@ -10,12 +10,16 @@ enum Type {
 	CAKE_SLICER,
 	DINING_CLOTH,
 	PLAYING_CARDS,
-	INDOOR_PLANTS
+	INDOOR_PLANTS,
+	NEW_PROP
 }
 
 var dusted = false;
 var color = Color(0.0,0.0,1.0)
-export var type = Type.NONE
+export(Type) var type = Type.NONE
+
+func _ready():
+	self.modulate = color
 
 func _on_Collision_body_entered(body):
 	if body is Player:
