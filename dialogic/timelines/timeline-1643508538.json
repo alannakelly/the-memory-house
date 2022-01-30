@@ -63,16 +63,160 @@
 			"text": " (He pauses, sarcastically)\nAh yes. But they DID get through didn't they? \nYou got to introduce them to their cycle on Earth and I met them at the end of it. \nSo why is this one so difficult for you?"
 		},
 		{
-			"character": "",
+			"character": "character-1643508520.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "<skip skip skip for dev>"
+			"text": "...\nBecause. It doesn't feel right. I don't think his time should be cut so short.\nHe can live again! Let him come with me!"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Short?! Alora look at this man. He is elderly, his child soul vanished long ago, his adult soul is lost and here he is.\nA leftover.\nHe is an elder  soul, ready to be collected. That's all. Let him go to the Afterlife with me."
 		},
 		{
 			"character": "character-1643508520.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "So would you please, if it's no bother of course, go around this gentlemans home and see what you can find that may help us understand his story?"
+			"text": "Don't talk about him like that!\nNobody is beyond help Pickett. Did you not notice how he is here alone?"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Something tells me that was his own doing. \nGrave Mortal mistake I suppose. Won't matter once he's passed on."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " (A more enthusiastic grunt of frustration)\nWhy are you always so stubborn?!\nLook at the weather! This is why sun-showers happen!\nI can't continue to keep your dreary away from my radiance!"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " (he scoffs)\nOh, my sincerest apologies Alora, I forgot YOU were the sole deity reponsible for the human cycle of exhistance.\nHow do you possibly manage it all?"
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So what does that make you since you love to go where I go? A..\nFollower perhaps?"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Charmed."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pickett... I just believe there is more to this humans story than we think.\nI think he should come with me and start over in a different human cycle!\nThere must be a reason he's ended like this. All of our humans' cycles have made sense besides his. Can't you at least agree on that?"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I suppose his does have missing pieces for some reason."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Exactly! Listen, we are equals. We created the humans, together."
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I do not need a history lesson. I was there."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " -All I'm requesting is we take a second look at his life.\nSomething happened that made his soul untraceable to either of us.\nHe never tilted the forces towards you or I."
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmm... that is odd, I'll admit.\nCrafty- for an old man."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " (excitable)\nPerfect! Then it's settled! I will search for information."
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh no Alora, you will not. In fact, if you are going to interfere with my work... we will use something of an equal nature between us both.\nALORA and PICKETT turn to OWLNU who has been watching their discussion."
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Owlnu. Why don't you consider this your first task to the start of your eternity."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Owlnu! My apologies, I forgot you were there.\nI don't mean to discuss deity roles with Pickett in front of you."
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh don't try to play innocent now Alora, you awknowledge everyone.\nIt's kind of a nuissance. You knew Owlnu was there."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Go around this man's home now Owlnu, see if you can find anything that will shed some... light on the problem at hand."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-Hey!"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " (chuckles)"
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't allow him to boss you around like that Owlnu, though you're a younger deity, you still are one!\nAnd we ALL deserve respect for our roles."
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes well, We wouldn't have needed Owlnu if you had just stuck to yours."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(ignoring Him)\nSo would you please, if it's no bother of course, go around this gentlemans home and see what you can find that may help us understand his story?"
 		},
 		{
 			"emit_signal": "scene_1_enable_movement",
@@ -82,7 +226,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Owlnu can walk around using\nUp, Down, Left, Right buttons"
+			"text": "Owlnu can walk around using Up, Down, Left, Right buttons"
 		},
 		{
 			"event_id": "dialogic_023",

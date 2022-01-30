@@ -1,16 +1,38 @@
 {
 	"events": [
 		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
 			"character": "character-1643508520.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Oh would you look at that! \nA glass of water! \nAt least he always knew to keep hydrated."
 		},
 		{
-			"character": "",
+			"character": "character-1643508499.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "<skip skip, rest of scene 2 continues>"
+			"text": "Crypts below, Alora! That's what you're taking from this?"
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean staying hydrated does allow you to outlive most people. \nOoo he even put lemon juice in it! How fancy!"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah yes, I do believe he started planting a garden, not limited to lemon trees, out in the backyard.\nIf memory serves he picked up that hobby to teach someone else."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well isn't that fun and fresh!"
 		}
 	],
 	"metadata": {
