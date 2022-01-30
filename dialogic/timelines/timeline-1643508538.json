@@ -239,7 +239,7 @@
 			"text": "That feather duster on your back should be able to help! \nVery intuitive of you! \nThis place is old, much like him, and has gotten quite dusty, so it may help you uncover some things!"
 		},
 		{
-			"emit_signal": "scene_1_show_ctrl_swing",
+			"emit_signal": "scene_1_enable_swing",
 			"event_id": "dialogic_040"
 		},
 		{
