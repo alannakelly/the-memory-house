@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/page 3, 4, 5 (Take 4).ogg-a4c5968bc49ad33c280480c811fb934e.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/pickett-lines/page 3, 4, 5 (Take 4).ogg"
+dest_files=[ "res://.import/page 3, 4, 5 (Take 4).ogg-a4c5968bc49ad33c280480c811fb934e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

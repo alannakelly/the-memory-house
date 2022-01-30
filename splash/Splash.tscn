@@ -21,4 +21,31 @@ __meta__ = {
 "_editor_description_": "Timer"
 }
 
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+margin_left = 62.0
+margin_top = 29.0
+margin_right = 597.0
+margin_bottom = 311.0
+text = "Narrative Designer, Artist, Project Lead:
+Madison Maha (@Ginge on Discord)
+
+Programming:
+@theRemix on Discord
+Alanna Kelly
+
+Sound Design:
+Deschain / @Damoel on Discord
+
+Animator, Artist:
+Sean O'Boyle (ShansGrand)
+
+Artist, Programming:
+@Blaze on Discord
+
+And with thanks to:
+Music: @BigRicePiano on Bandcamp, Discord, Youtube"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
 [connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]

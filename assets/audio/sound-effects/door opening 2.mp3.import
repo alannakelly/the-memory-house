@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/door opening 2.mp3-2b4e1fa330563fab735b60b64cd0f1ad.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sound-effects/door opening 2.mp3"
+dest_files=[ "res://.import/door opening 2.mp3-2b4e1fa330563fab735b60b64cd0f1ad.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

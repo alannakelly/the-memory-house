@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stay hydrated.ogg-ddce3505938f4ee108beac5348792f2d.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/scene-2-alora/Stay hydrated.ogg"
+dest_files=[ "res://.import/Stay hydrated.ogg-ddce3505938f4ee108beac5348792f2d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

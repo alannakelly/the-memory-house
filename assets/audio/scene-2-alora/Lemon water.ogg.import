@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Lemon water.ogg-5ec84a145b7a01db09c66ab8d9d3636a.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/scene-2-alora/Lemon water.ogg"
+dest_files=[ "res://.import/Lemon water.ogg-5ec84a145b7a01db09c66ab8d9d3636a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

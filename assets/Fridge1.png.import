@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Fridge1.png-14edb3ab86b236f7597007e7ede9ce39.res"
+group_file="res://assets/prop_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/Fridge1.png"
+dest_files=[ "res://.import/Fridge1.png-14edb3ab86b236f7597007e7ede9ce39.res" ]
+
+[params]
+
+atlas_file="res://assets/prop_atlas.png"
+import_mode=0
+crop_to_region=false

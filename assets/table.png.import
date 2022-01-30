@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/table.png-14b755b19e8ff9a139cf951e8fcb8e14.res"
+group_file="res://assets/prop_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/table.png"
+dest_files=[ "res://.import/table.png-14b755b19e8ff9a139cf951e8fcb8e14.res" ]
+
+[params]
+
+atlas_file="res://assets/prop_atlas.png"
+import_mode=0
+crop_to_region=false

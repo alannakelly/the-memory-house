@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/BigRicePiano - Stories in the Rain (EP) - 04 April Rain.mp3-23fcf4b45d13b0f03e5aac6ab72247d1.mp3str"
+
+[deps]
+
+source_file="res://assets/music/BigRicePiano - Stories in the Rain (EP) - 04 April Rain.mp3"
+dest_files=[ "res://.import/BigRicePiano - Stories in the Rain (EP) - 04 April Rain.mp3-23fcf4b45d13b0f03e5aac6ab72247d1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
