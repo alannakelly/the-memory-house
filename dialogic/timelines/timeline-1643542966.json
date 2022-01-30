@@ -1,0 +1,39 @@
+{
+	"events": [
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For someone responsible for life itself, you'd think I'm talented enough to keep a plant. \nI'm not. \nI think it's an act of rebellion from plants though, they don't want help growing. Like a teenage human."
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or you're simply bad at keeping attention to things at a personal level."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like a teenage human!"
+		},
+		{
+			"character": "character-1643508499.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure, if it's any consolation, you and Owlnu seem to have the same hobby for finding frivolous things that are a good excuse to procrastinate."
+		},
+		{
+			"character": "character-1643508520.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like watering a plant!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1643542966.json",
+		"name": "scene4_pot"
+	}
+}
